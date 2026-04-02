@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail21.png" width="800">
+</p>
+
 # 🚢 Titanic Survival Prediction (ML + Streamlit)
 
 A Machine Learning project that predicts whether a passenger survived the Titanic disaster using classification algorithms and a beautiful Streamlit web app.
@@ -96,10 +100,16 @@ You can deploy this app using:
 
 ---
 
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/titanic-survival-prediction.git)
+
 ## 👨‍💻 Author
 
 S. Senthamil Selvan
-AI & Tech Content Creator 🚀
+AI & ML Developer 🚀
 
 ---
 
